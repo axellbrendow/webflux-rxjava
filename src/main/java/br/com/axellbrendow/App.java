@@ -7,5 +7,6 @@ public class App
         PrintReactive.run();
         PrintStreams.run();
         PrintReactiveErrorFlow.run();
+        Backpressure.run();
     }
 }
