@@ -3,7 +3,7 @@
 ## How to run the project ?
 
 ```sh
-mvn exec:java
+./mvnw exec:java
 ```
 
 ## Mapping operation
